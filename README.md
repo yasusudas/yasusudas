@@ -11,50 +11,50 @@ Student Engineer · Osaka
 ## Tech Stack
 
 <table>
-  <tr bgcolor="#ffffff">
+  <tr>
     <td valign="top" width="50%">
       <strong>Languages / プログラミング言語</strong><br /><br />
       <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" style="background: transparent; border-radius: 0;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" style="background: transparent; border-radius: 0;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" style="background: transparent; border-radius: 0;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" style="background: transparent; border-radius: 0;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" style="background: transparent; border-radius: 0;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" style="background: transparent; border-radius: 0;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" style="background: transparent; border-radius: 0;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="40" height="40" alt="Swift" style="background: transparent; border-radius: 0;" />
+        <img src="./assets/icons/html5.svg" width="40" height="40" alt="HTML" />
+        <img src="./assets/icons/css3.svg" width="40" height="40" alt="CSS" />
+        <img src="./assets/icons/javascript.svg" width="40" height="40" alt="JavaScript" />
+        <img src="./assets/icons/typescript.svg" width="40" height="40" alt="TypeScript" />
+        <img src="./assets/icons/csharp.svg" width="40" height="40" alt="C#" />
+        <img src="./assets/icons/python.svg" width="40" height="40" alt="Python" />
+        <img src="./assets/icons/java.svg" width="40" height="40" alt="Java" />
+        <img src="./assets/icons/swift.svg" width="40" height="40" alt="Swift" />
       </div>
     </td>
     <td valign="top" width="50%">
       <strong>Frameworks &amp; Libraries / フレームワーク・ライブラリ</strong><br /><br />
       <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" style="background: transparent; border-radius: 0;" />
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="40" height="40" role="img" aria-label="Next.js">
-          <path fill="#111827" d="M49.167 38.4h-10.768v51.179h8.614v-40.24l52.54 67.884a64.216 64.216 0 0 0 6.763-5.209z"/>
-          <path fill="#111827" d="M81.778 38.4h8.533v51.2h-8.533z"/>
-        </svg>
+        <img src="./assets/icons/react.svg" width="40" height="40" alt="React" />
+        <img src="./assets/icons/nextjs.svg" width="40" height="40" alt="Next.js" />
       </div>
     </td>
   </tr>
-  <tr bgcolor="#ffffff">
+</table>
+
+<table width="100%">
+  <tr>
     <td valign="top" width="50%">
       <strong>Dev tools / 開発ツール</strong><br /><br />
       <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" style="background: transparent; border-radius: 0;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub" style="background: transparent; border-radius: 0;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" style="background: transparent; border-radius: 0;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" style="background: transparent; border-radius: 0;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" height="40" alt="Blender" style="background: transparent; border-radius: 0;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40" alt="Unity" style="background: transparent; border-radius: 0;" />
+        <img src="./assets/icons/git.svg" width="40" height="40" alt="Git" />
+        <img src="./assets/icons/github.svg" width="40" height="40" alt="GitHub" />
+        <img src="./assets/icons/vscode.svg" width="40" height="40" alt="VS Code" />
+        <img src="./assets/icons/docker.svg" width="40" height="40" alt="Docker" />
+        <img src="./assets/icons/blender.svg" width="40" height="40" alt="Blender" />
+        <img src="./assets/icons/unity.svg" width="40" height="40" alt="Unity" />
       </div>
     </td>
     <td valign="top" width="50%">
       <strong>Infrastructure / インフラ</strong><br /><br />
       <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel" style="background: transparent; border-radius: 0;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" style="background: transparent; border-radius: 0;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" alt="Microsoft Azure" style="background: transparent; border-radius: 0;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40" alt="Firebase" style="background: transparent; border-radius: 0;" />
+        <img src="./assets/icons/vercel.svg" width="40" height="40" alt="Vercel" />
+        <img src="./assets/icons/googlecloud.svg" width="40" height="40" alt="Google Cloud" />
+        <img src="./assets/icons/azure.svg" width="40" height="40" alt="Microsoft Azure" />
+        <img src="./assets/icons/firebase.svg" width="40" height="40" alt="Firebase" />
       </div>
     </td>
   </tr>
