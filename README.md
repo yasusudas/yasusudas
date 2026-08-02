@@ -63,12 +63,12 @@ Student Engineer · Osaka
 ## GitHub activity
 
 <p align="center">
-  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="GitHub profile details" width="98%" />
+  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="GitHub profile details" width="83.3%" />
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%" />
-  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repositories per language" width="49%" />
+  <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="41.65%" />
+  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repositories per language" width="41.65%" />
 </p>
 
 ## Contribution Snake
