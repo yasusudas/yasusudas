@@ -15,21 +15,21 @@ Student Engineer · Osaka
     <td valign="top" width="50%">
       <strong>プログラミング言語</strong><br /><br />
       <div align="center">
-        <img src="./assets/icons/html5.svg" width="40" height="40" alt="HTML" />
-        <img src="./assets/icons/css3.svg" width="40" height="40" alt="CSS" />
-        <img src="./assets/icons/javascript.svg" width="40" height="40" alt="JavaScript" />
-        <img src="./assets/icons/typescript.svg" width="40" height="40" alt="TypeScript" />
-        <img src="./assets/icons/csharp.svg" width="40" height="40" alt="C#" />
-        <img src="./assets/icons/python.svg" width="40" height="40" alt="Python" />
-        <img src="./assets/icons/java.svg" width="40" height="40" alt="Java" />
-        <img src="./assets/icons/swift.svg" width="40" height="40" alt="Swift" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/html5.svg" width="40" height="40" alt="HTML" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/css3.svg" width="40" height="40" alt="CSS" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/javascript.svg" width="40" height="40" alt="JavaScript" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/typescript.svg" width="40" height="40" alt="TypeScript" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/csharp.svg" width="40" height="40" alt="C#" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/python.svg" width="40" height="40" alt="Python" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/java.svg" width="40" height="40" alt="Java" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/swift.svg" width="40" height="40" alt="Swift" />
       </div>
     </td>
     <td valign="top" width="50%">
       <strong>フレームワーク・ライブラリ</strong><br /><br />
       <div align="center">
-        <img src="./assets/icons/react.svg" width="40" height="40" alt="React" />
-        <img src="./assets/icons/nextjs.svg" width="40" height="40" alt="Next.js" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/react.svg" width="40" height="40" alt="React" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/nextjs.svg" width="40" height="40" alt="Next.js" />
       </div>
     </td>
   </tr>
@@ -40,21 +40,21 @@ Student Engineer · Osaka
     <td valign="top" width="50%">
       <strong>開発ツール</strong><br /><br />
       <div align="center">
-        <img src="./assets/icons/git.svg" width="40" height="40" alt="Git" />
-        <img src="./assets/icons/github.svg" width="40" height="40" alt="GitHub" />
-        <img src="./assets/icons/vscode.svg" width="40" height="40" alt="VS Code" />
-        <img src="./assets/icons/docker.svg" width="40" height="40" alt="Docker" />
-        <img src="./assets/icons/blender.svg" width="40" height="40" alt="Blender" />
-        <img src="./assets/icons/unity.svg" width="40" height="40" alt="Unity" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/git.svg" width="40" height="40" alt="Git" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/github.svg" width="40" height="40" alt="GitHub" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/vscode.svg" width="40" height="40" alt="VS Code" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/docker.svg" width="40" height="40" alt="Docker" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/blender.svg" width="40" height="40" alt="Blender" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/unity.svg" width="40" height="40" alt="Unity" />
       </div>
     </td>
     <td valign="top" width="50%">
       <strong>インフラ</strong><br /><br />
       <div align="center">
-        <img src="./assets/icons/vercel.svg" width="40" height="40" alt="Vercel" />
-        <img src="./assets/icons/googlecloud.svg" width="40" height="40" alt="Google Cloud" />
-        <img src="./assets/icons/azure.svg" width="40" height="40" alt="Microsoft Azure" />
-        <img src="./assets/icons/firebase.svg" width="40" height="40" alt="Firebase" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/vercel.svg" width="40" height="40" alt="Vercel" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/googlecloud.svg" width="40" height="40" alt="Google Cloud" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/azure.svg" width="40" height="40" alt="Microsoft Azure" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/firebase.svg" width="40" height="40" alt="Firebase" />
       </div>
     </td>
   </tr>
