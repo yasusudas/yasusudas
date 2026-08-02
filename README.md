@@ -4,7 +4,7 @@
 
 Student Engineer · Osaka
 
-[Portfolio](https://ichi-portfolio.dev) · [GitHub](https://github.com/yasusudas) · [X](https://x.com/yasusudas) · [Contact](https://docs.google.com/forms/d/e/1FAIpQLSf0GSGbcWOyNelk8tOJyGAokPdfcFrYD1fIoDuxrukXLipz_g/viewform?usp=publish-editor)
+[🌐 Portfolio](https://ichi-portfolio.dev) &nbsp;·&nbsp; [🐙 GitHub](https://github.com/yasusudas) &nbsp;·&nbsp; [𝕏 X](https://x.com/yasusudas) &nbsp;·&nbsp; [✉️ Contact](https://docs.google.com/forms/d/e/1FAIpQLSf0GSGbcWOyNelk8tOJyGAokPdfcFrYD1fIoDuxrukXLipz_g/viewform?usp=publish-editor)
 
 </div>
 
