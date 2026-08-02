@@ -13,7 +13,7 @@ Student Engineer · Osaka
 <table>
   <tr>
     <td valign="top" width="50%">
-      <strong>Languages / プログラミング言語</strong><br /><br />
+      <strong>プログラミング言語</strong><br /><br />
       <div align="center">
         <img src="./assets/icons/html5.svg" width="40" height="40" alt="HTML" />
         <img src="./assets/icons/css3.svg" width="40" height="40" alt="CSS" />
@@ -26,7 +26,7 @@ Student Engineer · Osaka
       </div>
     </td>
     <td valign="top" width="50%">
-      <strong>Frameworks &amp; Libraries / フレームワーク・ライブラリ</strong><br /><br />
+      <strong>フレームワーク・ライブラリ</strong><br /><br />
       <div align="center">
         <img src="./assets/icons/react.svg" width="40" height="40" alt="React" />
         <img src="./assets/icons/nextjs.svg" width="40" height="40" alt="Next.js" />
@@ -38,7 +38,7 @@ Student Engineer · Osaka
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
-      <strong>Dev tools / 開発ツール</strong><br /><br />
+      <strong>開発ツール</strong><br /><br />
       <div align="center">
         <img src="./assets/icons/git.svg" width="40" height="40" alt="Git" />
         <img src="./assets/icons/github.svg" width="40" height="40" alt="GitHub" />
@@ -49,7 +49,7 @@ Student Engineer · Osaka
       </div>
     </td>
     <td valign="top" width="50%">
-      <strong>Infrastructure / インフラ</strong><br /><br />
+      <strong>インフラ</strong><br /><br />
       <div align="center">
         <img src="./assets/icons/vercel.svg" width="40" height="40" alt="Vercel" />
         <img src="./assets/icons/googlecloud.svg" width="40" height="40" alt="Google Cloud" />
