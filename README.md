@@ -11,7 +11,7 @@ Student Engineer · Osaka
 ## Tech Stack
 
 <table>
-  <tr style="background-color: #ffffff;">
+  <tr bgcolor="#ffffff">
     <td valign="top" width="50%">
       <strong>Languages / プログラミング言語</strong><br /><br />
       <div align="center">
@@ -36,7 +36,7 @@ Student Engineer · Osaka
       </div>
     </td>
   </tr>
-  <tr style="background-color: #ffffff;">
+  <tr bgcolor="#ffffff">
     <td valign="top" width="50%">
       <strong>Dev tools / 開発ツール</strong><br /><br />
       <div align="center">
