@@ -29,7 +29,7 @@ Student Engineer · Osaka
       <strong>Frameworks &amp; Libraries / フレームワーク・ライブラリ</strong><br /><br />
       <div align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+        <img src="./assets/icons/nextjs.svg" width="40" height="40" alt="Next.js" />
       </div>
     </td>
   </tr>
