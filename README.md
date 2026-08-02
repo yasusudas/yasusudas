@@ -71,6 +71,16 @@ Student Engineer · Osaka
   <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repositories per language" width="49%" />
 </p>
 
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasusudas/yasusudas/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasusudas/yasusudas/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" width="100%" />
+  </picture>
+</p>
+
 <div align="center">
 
 More about me and my work → [ichi-portfolio.dev](https://ichi-portfolio.dev)
