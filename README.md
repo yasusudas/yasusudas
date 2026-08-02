@@ -10,7 +10,7 @@ Student Engineer · Osaka
 
 ## Tech Stack
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
       <strong>プログラミング言語</strong><br /><br />
@@ -33,9 +33,6 @@ Student Engineer · Osaka
       </div>
     </td>
   </tr>
-</table>
-
-<table width="100%">
   <tr>
     <td valign="top" width="50%">
       <strong>開発ツール</strong><br /><br />
