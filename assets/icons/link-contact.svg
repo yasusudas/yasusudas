@@ -1,4 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-label="Contact">
-  <rect x="2.5" y="5" width="19" height="14" rx="2.5" fill="none" stroke="#D1242F" stroke-width="2"/>
-  <path d="m4 7 8 6 8-6" fill="none" stroke="#D1242F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(0,-1.25)">
+    <rect x="2.5" y="5" width="19" height="14" rx="2.5" fill="none" stroke="#D1242F" stroke-width="2"/>
+    <path d="m4 7 8 6 8-6" fill="none" stroke="#D1242F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
 </svg>
