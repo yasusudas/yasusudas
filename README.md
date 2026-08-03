@@ -33,6 +33,9 @@ Student Engineer · Osaka
       </div>
     </td>
   </tr>
+</table>
+
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
       <strong>開発ツール</strong><br /><br />
