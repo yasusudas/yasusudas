@@ -4,7 +4,7 @@
 
 Student Engineer · Osaka
 
-<a href="https://ichi-portfolio.dev"><img src="./assets/icons/link-portfolio.svg" width="18" height="18" align="middle" style="vertical-align: middle;" alt="Portfolio icon" /> Portfolio</a> &nbsp;·&nbsp; <a href="https://x.com/yasusudas"><img src="./assets/icons/link-x.svg" width="18" height="18" align="middle" style="vertical-align: middle;" alt="X icon" /> X</a> &nbsp;·&nbsp; <a href="https://docs.google.com/forms/d/e/1FAIpQLSf0GSGbcWOyNelk8tOJyGAokPdfcFrYD1fIoDuxrukXLipz_g/viewform?usp=publish-editor"><img src="./assets/icons/link-contact.svg" width="18" height="18" align="middle" style="vertical-align: middle;" alt="Contact icon" /> Contact</a>
+<a href="https://ichi-portfolio.dev"><img src="./assets/icons/link-portfolio.svg" width="18" height="21" align="middle" style="vertical-align: middle;" alt="Portfolio icon" /> Portfolio</a> &nbsp;·&nbsp; <a href="https://x.com/yasusudas"><img src="./assets/icons/link-x.svg" width="18" height="21" align="middle" style="vertical-align: middle;" alt="X icon" /> X</a> &nbsp;·&nbsp; <a href="https://docs.google.com/forms/d/e/1FAIpQLSf0GSGbcWOyNelk8tOJyGAokPdfcFrYD1fIoDuxrukXLipz_g/viewform?usp=publish-editor"><img src="./assets/icons/link-contact.svg" width="18" height="21" align="middle" style="vertical-align: middle;" alt="Contact icon" /> Contact</a>
 
 </div>
 
@@ -12,7 +12,7 @@ Student Engineer · Osaka
 
 <table width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="430">
       <strong>プログラミング言語</strong><br /><br />
       <div align="center">
         <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/html5.svg" width="40" height="40" alt="HTML" />
@@ -25,7 +25,7 @@ Student Engineer · Osaka
         <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/swift.svg" width="40" height="40" alt="Swift" />
       </div>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="430">
       <strong>フレームワーク・ライブラリ</strong><br /><br />
       <div align="center">
         <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/react.svg" width="40" height="40" alt="React" />
@@ -37,7 +37,7 @@ Student Engineer · Osaka
 
 <table width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="430">
       <strong>開発ツール</strong><br /><br />
       <div align="center">
         <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/git.svg" width="40" height="40" alt="Git" />
@@ -48,7 +48,7 @@ Student Engineer · Osaka
         <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/unity.svg" width="40" height="40" alt="Unity" />
       </div>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="430">
       <strong>インフラ</strong><br /><br />
       <div align="center">
         <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/vercel.svg" width="40" height="40" alt="Vercel" />
