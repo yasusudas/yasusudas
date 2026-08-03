@@ -29,7 +29,7 @@ Student Engineer · Osaka
       <strong>フレームワーク・ライブラリ</strong><br /><br />
       <div align="center">
         <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/react.svg" width="40" height="40" alt="React" />
-        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/nextjs.svg" width="40" height="40" alt="Next.js" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/2dfaec6/assets/icons/nextjs.svg" width="40" height="40" alt="Next.js" />
       </div>
     </td>
   </tr>
