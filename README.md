@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ichi
+# Astar
 
 Student Engineer · Osaka
 
