@@ -55,6 +55,8 @@ Student Engineer · Osaka
         <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/googlecloud.svg" width="40" height="40" alt="Google Cloud" />
         <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/azure.svg" width="40" height="40" alt="Microsoft Azure" />
         <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/firebase.svg" width="40" height="40" alt="Firebase" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/main/assets/icons/cloudflare.svg" width="40" height="40" alt="Cloudflare" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/main/assets/icons/supabase.svg" width="40" height="40" alt="Supabase" />
       </div>
     </td>
   </tr>
