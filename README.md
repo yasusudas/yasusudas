@@ -1,8 +1,8 @@
 <div align="center">
 
-# Astar
+# Ichi
 
-Student Engineer · Osaka
+Student Engineer/Indie Developer · Osaka
 
 <a href="https://ichi-portfolio.dev"><img src="./assets/icons/link-portfolio.svg" width="18" height="21" align="middle" style="vertical-align: middle;" alt="Portfolio icon" /> Portfolio</a> &nbsp;·&nbsp; <a href="https://x.com/yasusudas"><img src="./assets/icons/link-x.svg" width="18" height="21" align="middle" style="vertical-align: middle;" alt="X icon" /> X</a> &nbsp;·&nbsp; <a href="https://docs.google.com/forms/d/e/1FAIpQLSf0GSGbcWOyNelk8tOJyGAokPdfcFrYD1fIoDuxrukXLipz_g/viewform?usp=publish-editor"><img src="./assets/icons/link-contact.svg" width="18" height="21" align="middle" style="vertical-align: middle;" alt="Contact icon" /> Contact</a>
 
