@@ -19,9 +19,9 @@ Student Engineer / Indie Developer · Osaka
         <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/css3.svg" width="40" height="40" alt="CSS" />
         <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/javascript.svg" width="40" height="40" alt="JavaScript" />
         <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/typescript.svg" width="40" height="40" alt="TypeScript" />
+        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/main/assets/icons/c.svg" width="40" height="40" alt="C" />
         <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/csharp.svg" width="40" height="40" alt="C#" />
         <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/python.svg" width="40" height="40" alt="Python" />
-        <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/main/assets/icons/c.svg" width="40" height="40" alt="C" />
         <img src="https://raw.githubusercontent.com/yasusudas/yasusudas/6abf3cd/assets/icons/swift.svg" width="40" height="40" alt="Swift" />
       </div>
     </td>
